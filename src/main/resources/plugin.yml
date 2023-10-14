@@ -1,0 +1,10 @@
+main: me.espryth.zombiearcher.ZombieArcherPlugin
+name: ZombieArcher
+version: 1.0
+author: Espryth
+api-version: 1.20
+commands:
+  zombiearcher:
+    description: ZombieArcher Command
+    usage: /zombiearcher
+    aliases: [za]
